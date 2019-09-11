@@ -1,1 +1,1 @@
-# I am currently learn about full stack development. This personal site was developed by pure html code. Some of features may not working. I will be updated after I learn about Javascript 
+# I am learning full stack development. My personal site is my first project to develop. Since I am still in the process of development, the website is not fully function yet. I will update periodically. 

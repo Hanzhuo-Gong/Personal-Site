@@ -1,0 +1,112 @@
+audio {
+  display:none;
+}
+
+body {
+  margin: 0;
+}
+
+/*Remove the underline from href*/
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #ff3399;
+}
+/*-------------------------------Top Container--------------------------*/
+.topContainer {
+  background-color: pink;
+}
+
+.intro {
+  /*background-color: #EAF6F6;*/
+  padding-top: 400px;
+  /*padding-left: 800px;*/
+  text-align: center;
+  padding-bottom: 200px;
+}
+
+
+.cherryblossom {
+  position: absolute;
+  right: 0px; /*move the picture to the right*/
+  top: 0px;
+}
+
+.intro h1 {
+  margin-top: 0;
+}
+
+.navbar {
+ text-align: center;
+ padding-top: 80px;
+}
+
+.nav_page {
+  /*color: #ff0066;*/
+  color: #ff66b3;
+  font-size: 1.5rem;
+  margin-left: 2rem;
+  font-weight: bold;
+}
+/*--------------------------------Middle Container----------------------*/
+.middleContainer {
+  background-color: white;
+  text-align: center;
+}
+
+.my_self {
+  border-radius: 50%; /*circle border*/
+
+  /*code below center the image*/
+  display: block;
+  margin: 50px auto;
+}
+
+.Greeting {
+  font-weight: bold;
+  font-size: 1.875rem;
+}
+
+.self_description {
+  font-size: 1.25rem;
+  width: 460px;
+  margin: 0 auto;
+}
+
+.break_line {
+  width: 70px;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: grey;
+  margin: 100px auto;
+}
+
+.intro_bio {
+  font-weight: bold;
+  color: #1e836c;
+  font-size: 3.125rem;
+}
+
+.more_description {
+  font-size: 1.25em;
+  width: 460px;
+  margin: 50px auto 0 auto;
+}
+
+.smilingFace {
+  height: 30px;
+  width: 30px;
+}
+/*--------------------------------Bottom Container----------------------*/
+.bottomContainer {
+  background-color: pink;
+  height: 200px;
+  width: 200px;
+}

@@ -2,4 +2,6 @@
 
 Website:https://xiaogong1.github.io/CV/
 
+9/12/19: Update contact me button, footbar with links to my personal linkedin & github
+
 9/11/19: Update Navbar & background music (Chrome won't play the music because of the autoplay policy)
